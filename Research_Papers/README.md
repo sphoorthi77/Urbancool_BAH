@@ -79,7 +79,7 @@ Publisher:
 IEEE JSTARS, Vol. 18, 2025
 
 Official Link:
-https://ieeexplore.ieee.org/document/10930002 (DOI: 10.1109/JSTARS.2025.3554529)
+https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10938603
 
 Contribution to UrbanCool:
 
@@ -180,7 +180,7 @@ Publisher:
 IEEE JSTARS, Vol. 18, 2025
 
 Official Link:
-https://ieeexplore.ieee.org/document/11160632 (DOI: 10.1109/JSTARS.2025.3607940)
+https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11154444
 
 Contribution to UrbanCool:
 
@@ -221,7 +221,7 @@ Publisher:
 IEEE JSTARS, Vol. 19, 2026
 
 Official Link:
-https://ieeexplore.ieee.org/document/11247080 (DOI: 10.1109/JSTARS.2025.3634721)
+https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11260902
 
 Contribution to UrbanCool:
 
